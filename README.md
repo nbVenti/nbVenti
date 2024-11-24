@@ -1,6 +1,6 @@
 #
 <img src="https://i.imgur.com/tHNeVcW.png" width="auto"/>
-<img src="https://i.imgur.com/1RXTEzz.png" width="250" style="border-radius: 90px" align="right"/>
+<img src="https://i.imgur.com/1RXTEzz.png" width="200" style="border-radius: 90px" align="right"/>
 <br/>
 <br/>
 
