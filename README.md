@@ -1,6 +1,6 @@
 #
-<img src="https://i.imgur.com/tHNeVcW.png" width="auto"/>
-<img src="https://i.imgur.com/hEwqxJC.png" width="200" align="right"/>
+<img src="https://i.imgur.com/u5FYbN7.png" width="auto"/>
+<img src="https://i.imgur.com/wj2Sgqd.jpeg" align="right" width="auto">
 <br/>
 <br/>
 
@@ -19,17 +19,13 @@
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> [JavaScript](https://www.javascript.com/), <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> [TypeScript](https://www.typescriptlang.org/) And <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/)
 
 
-- Learning 
+- Learning <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C" width="16" height="16"/> [C++](https://en.cppreference.com/w/cpp/language), <img src="https://simpleicons.org/icons/c.svg" alt="C" width="16" height="16"/> [C](https://en.cppreference.com/w/c/language)[osplay](https://www.instagram.com/nb.venti/)
 
-- test
 
-- test
-
-<!-- 
-    Learning how to either c , c++ , c~~osplay~~
--->
-<img src="https://i.imgur.com/wj2Sgqd.jpeg" align="right" width="auto">
 <br/>
+
+
+
 
 <!-- repos
     <a href>
