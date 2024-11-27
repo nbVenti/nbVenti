@@ -1,5 +1,6 @@
 #
-<img src="https://i.imgur.com/u5FYbN7.png" width="auto"/>
+<img src="https://i.imgur.com/tHNeVcW.png" width="auto"/>
+<!-- <img src="https://i.imgur.com/hEwqxJC.png" width="200" align="right"/> -->
 <img src="https://i.imgur.com/wj2Sgqd.jpeg" align="right" width="auto">
 <br/>
 <br/>
@@ -22,6 +23,10 @@
 - Learning <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C" width="16" height="16"/> [C++](https://en.cppreference.com/w/cpp/language), <img src="https://simpleicons.org/icons/c.svg" alt="C" width="16" height="16"/> [C](https://en.cppreference.com/w/c/language)[osplay](https://www.instagram.com/nb.venti/)
 
 
+
+<!-- 
+    Learning how to either c , c++ , c~~osplay~~
+-->
 <br/>
 
 
