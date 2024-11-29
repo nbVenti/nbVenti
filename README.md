@@ -51,10 +51,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbVenti&show_icons=true&theme=cobalt)
 
-![Snake animation](https://github.com/nbVenti/nbVenti/blob/output/github-contribution-grid-snake.gif)
-
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/nbVenti)
-`
-![test](https://raw.githubusercontent.com/nbVenti/nbVenti/output/github-contribution-grid-snake.svg)
+
 
 #### Thanks for Waiting! It's my turn to jump in! ☆
