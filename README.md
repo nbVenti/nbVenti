@@ -26,18 +26,11 @@
 <br/>
 
 
-
-
-
-<!-- repos
-    <a href>
-        star rail sim
-    </a>
-    <a href>
-        fantasy vlr
-    </a>
- -->
-
+### Repos
+- [**Star-RailSim**](https://github.com/nbVenti/starailSim) <br>
+    Monte-Carlo style simulator or a command line interface for a certain turn based anime gacha game (incomplete)
+- [**Fantasy-vlr**](https://github.com/nbVenti/Fantasy_vlr) <br>
+    Draft Valorant players to track their success and/or failure over the VCT season while competing with friends(incomplete)
 
 
 ### Discord
