@@ -1,4 +1,3 @@
-#
 <img src="https://i.imgur.com/tHNeVcW.png" width="auto"/>
 <!-- <img src="https://i.imgur.com/hEwqxJC.png" width="200" align="right"/> -->
 <img src="https://i.imgur.com/wj2Sgqd.jpeg" align="right" width="auto">
