@@ -35,7 +35,7 @@
 ### Discord
 
 <a href="https://discord.com/users/292454017110507520">
-    <img src="https://lanyard.cnrad.dev/api/292454017110507520?showDisplayName=true&bg=E075CD&animated=true&idleMessage=KonAqua~~⚓️" alt="Discord User">
+    <img src="https://lanyard.cnrad.dev/api/292454017110507520?theme=&bg=E075CD&idleMessage=KonAqua~~%E2%9A%93%EF%B8%8F&showDisplayName=true" alt="Discord User">
 </a>
 
 
