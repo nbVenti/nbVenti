@@ -8,7 +8,7 @@
 - <img src="https://i.imgur.com/0uMmOtD.png" alt='.' width=16/> x <img src="https://i.imgur.com/2veJXnM.png" alt='.' width=16/> = <img src="https://i.imgur.com/gpJfOGE.jpeg" alt='.' width=32/>
 
 
-- 19 years
+- 20 years
 
 - Student at <img src="https://i.imgur.com/oePcK6e.jpeg" width='20'/>
 
