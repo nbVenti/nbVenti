@@ -39,6 +39,12 @@
 </a>
 
 
+### Music
+<img src="https://i.imgur.com/bHR4pjf.jpeg" width=500>
+
+- [[Startend] サマータイムレコード / 湊あくあ (Minato Aqua) ・ 星街すいせい (Hoshimachi Suisei) ・常闇トワ (Toyokami Towa)](https://www.youtube.com/watch?v=ODpDeKkuWAs)
+
+
 ### GitHub 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbVenti&show_icons=true&theme=cobalt)
