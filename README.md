@@ -19,7 +19,7 @@
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> [JavaScript](https://www.javascript.com/) <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> [TypeScript](https://www.typescriptlang.org/) <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/)
 
 
-- Learning <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C" width="16" height="16"/> [C++](https://en.cppreference.com/w/cpp/language) <img src="https://simpleicons.org/icons/c.svg" alt="C" width="16" height="16"/> [C](https://en.cppreference.com/w/c/language)[osplay](https://www.instagram.com/nb.venti/)
+- Learning <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C" width="16" height="16"/> [C++](https://en.cppreference.com/w/cpp/language) <img src="https://simpleicons.org/icons/c.svg" alt="C" width="16" height="16"/> [C](https://en.cppreference.com/w/c/language)
 
 
 <br/>
