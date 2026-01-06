@@ -47,7 +47,7 @@
 
 ### GitHub 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbVenti&show_icons=true&theme=cobalt)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbVenti&show_icons=true&theme=cobalt) -->
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/nbVenti)
 
