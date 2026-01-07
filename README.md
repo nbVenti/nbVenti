@@ -10,7 +10,7 @@
 
 - 20 years
 
-- Student at <img src="https://i.imgur.com/oePcK6e.jpeg" width='20'/>
+- Graudate of <img src="https://i.imgur.com/oePcK6e.jpeg" width='20'/>
 
 - I play Tps/Fps, Rhythm, Open-world anime RPGs <br/> Some games:
 [<img src="https://i.imgur.com/z12oSjN.jpeg" alt="." width="16" height="16"/> [Blue Archive](https://bluearchive.nexon.com/home), <img src="https://i.imgur.com/QK1E4kB.png" alt="." width="16" height="16"/> [HI3rd](https://honkaiimpact3.hoyoverse.com), <img src="https://i.imgur.com/qbjSWml.png" alt="." width="16" height="16"/> [Honkai: Star Rail](https://hsr.hoyoverse.com), <img src="https://i.imgur.com/E7EUUH3.png" alt="." width="16" height="16"/> [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/),  <img src="https://static.wikia.nocookie.net/fictionalcrossover/images/1/13/Maimai_Logo.png/revision/latest?cb=20240513051322" alt="." width="auto" height="16"/> [MaiMai](https://maimai.sega.com/)]
