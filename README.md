@@ -13,7 +13,7 @@
 - Graudate of <img src="https://i.imgur.com/oePcK6e.jpeg" width='20'/>
 
 - I play Tps/Fps, Rhythm, Open-world anime RPGs <br/> Some games:
-- [<img src="https://i.imgur.com/z12oSjN.jpeg" width="16" height="16"/> <br> [Blue Archive](https://bluearchive.nexon.com/home)]
+- [<img src="https://i.imgur.com/z12oSjN.jpeg" width="16" height="16"/>[Blue Archive](https://bluearchive.nexon.com/home)]
 - ![alt text](https://i.imgur.com/z12oSjN.jpeg "text") [Blue Archive](https://bluearchive.nexon.com/home)
 
 
