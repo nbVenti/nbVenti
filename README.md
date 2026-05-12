@@ -14,7 +14,7 @@
 
 - I play Tps/Fps, Rhythm, Open-world anime RPGs <br/> Some games:
 - [<img src="https://i.imgur.com/z12oSjN.jpeg" width="16" height="16"/> [Blue Archive](https://bluearchive.nexon.com/home)]
-- ![alt text](https://i.imgur.com/z12oSjN.jpeg "text")
+- ![alt text](https://i.imgur.com/z12oSjN.jpeg "text") [Blue Archive](https://bluearchive.nexon.com/home)
 
 
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> [JavaScript](https://www.javascript.com/) <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> [TypeScript](https://www.typescriptlang.org/) <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/)
