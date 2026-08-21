@@ -8,7 +8,7 @@
 - <img src="https://i.imgur.com/0uMmOtD.png" alt='.' width=16/> x <img src="https://i.imgur.com/2veJXnM.png" alt='.' width=16/> = <img src="https://i.imgur.com/gpJfOGE.jpeg" alt='.' width=32/>
 
 
-- 20 years
+- 21 years
 
 - Graudate of <img src="https://i.imgur.com/oePcK6e.jpeg" width='20'/>
 
@@ -37,7 +37,7 @@
 </a>
 
 
-### Music
+### Fav Music
 <img src="https://i.imgur.com/bHR4pjf.jpeg" width=500>
 
 - [[Startend] サマータイムレコード / 湊あくあ (Minato Aqua) ・ 星街すいせい (Hoshimachi Suisei) ・常闇トワ (Toyokami Towa)](https://www.youtube.com/watch?v=ODpDeKkuWAs)
